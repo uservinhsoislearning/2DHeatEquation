@@ -81,7 +81,7 @@ The result is the same as in visualize_video.mp4. In the report and in our slide
 
 You can see in the video down here:
 
-add video
+https://github.com/user-attachments/assets/2cbea52d-5103-4441-a90d-d8295c8fbdbf
 
 You can un-comment these line if you want to see the last frame of the metal plate (also included in our report and slide)
 
