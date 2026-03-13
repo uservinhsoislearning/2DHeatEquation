@@ -1,6 +1,6 @@
 # 2D Heat Equation- Forward Euler method
 
-This README will guide you through how to run the main components of our group program, as well as the visualization video.
+This README will guide you through how to run the main components of the program, as well as the visualization video.
 
 ## 1. Main files/programs
 The main components of this project are the HeatEquation2Dtime.c and HeatEquation2Dtime.cu. 
